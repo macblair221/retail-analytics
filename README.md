@@ -1,1 +1,1 @@
-# spark-retail-analytics
+# Retail Analytics
