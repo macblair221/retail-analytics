@@ -51,11 +51,6 @@ Raw data is **not included** in the repo—only referenced.
 ---
 
 ## Notebook
-The full analysis is located in:
-
-```
-notebooks/retail_sales_analysis.sql
-```
 
 It includes:
 1. Data Exploration & Validation  
