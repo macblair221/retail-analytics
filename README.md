@@ -62,7 +62,3 @@ It includes:
 
 ---
 
-
-## Conclusion
-
-This project demonstrates how SQL can be used to uncover meaningful business insights from retail transaction data. By combining category, regional, discount, and time-series analysis, the workflow highlights drivers of revenue and profit as well as margin inefficiencies. The project provides a complete example of exploratory analysis and visualization using Databricks SQL on a business-focused dataset.
